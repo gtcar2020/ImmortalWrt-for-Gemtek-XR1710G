@@ -1,6 +1,6 @@
 <img src="https://avatars.githubusercontent.com/u/53193414?s=200&v=4" alt="logo" width="200" height="200" align="right">
 
-# ImmortalWrt-for-Gemtek-brightspeed XR1710G & XG2010G
+# Gemtek-brightspeed XR1710G & XG2010G
 
 [![Build Status](https://img.shields.io/github/actions/workflow/status/naoki66/ImmortalWrt-for-Gemtek-brightspeed/build-firmware.yml?branch=master&label=Build)](https://github.com/naoki66/ImmortalWrt-for-Gemtek-brightspeed/actions/workflows/build-firmware.yml)
 [![Sync Status](https://img.shields.io/github/actions/workflow/status/naoki66/ImmortalWrt-for-Gemtek-brightspeed/sync-upstream.yml?branch=master&label=Sync)](https://github.com/naoki66/ImmortalWrt-for-Gemtek-brightspeed/actions/workflows/sync-upstream.yml)
@@ -272,6 +272,5 @@ bash scripts/summarize-build-errors.sh build.log
 
 [GPL-2.0-only](https://spdx.org/licenses/GPL-2.0-only.html)（继承 ImmortalWrt）
 
-## 赞赏
 
 
